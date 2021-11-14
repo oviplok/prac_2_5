@@ -15,7 +15,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a55
 
 #kernel
 
-TARGET_KERNEL_SOURCE := kernel/MIREA/IT
+TARGET_KERNEL_SOURCE := kernel/MIREA/IT1
 TARGET_KERNEL_CONFIG := it_defconfig
 
 #partitions
